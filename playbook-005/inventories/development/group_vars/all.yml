@@ -1,0 +1,7 @@
+##------------------------------------------------------
+## COMMON CONFIGURATION
+##------------------------------------------------------
+ansible_ssh_common_args: '-o StrictHostKeyChecking=no'
+dir_name: app
+file_name: myapp.py
+
